@@ -1,6 +1,6 @@
-# Nom de votre projet
+# Test de Laravel Backpack
 
-Description brève de votre projet
+Test d'un back-office pré-construit 
 
 ## Installation
 
